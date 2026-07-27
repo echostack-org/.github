@@ -36,11 +36,21 @@ The Echostack ecosystem is designed to be:
 - **Scalable**: from personal laptops to HPC clusters and cloud platforms.
 - **Open**: community-driven, reproducible, and open-source.
 
-## Scientific publication
+## Scientific publications
 
-A complete overview of the project's motivation, architecture, design principles, and example workflows is available in the SciPy Proceedings paper:
+The Echostack ecosystem builds upon the development of **echopype**, introduced in:
 
-> **[Echostack: A flexible and scalable open-source software suite for echosounder data processing](https://proceedings.scipy.org/articles/WXRH8633)**
+> **Lee, W.J., Setiawan, L., Tuguinay, C., Mayorga, E., & Staneva, V. (2024).**
+> *Interoperable and scalable echosounder data processing with Echopype.*
+> *ICES Journal of Marine Science*, **81**(10), 1941–1951.
+> https://doi.org/10.1093/icesjms/fsae133
+
+The broader vision, architecture, design principles, and ecosystem are presented in:
+
+> **Lee, W.J., Tuguinay, C., Setiawan, L., Izard, L., Mayorga, E., Staneva, V., et al. (2025).**
+> *Echostack: A flexible and scalable open-source software suite for echosounder data processing.*
+> *Proceedings of the 24th Python in Science Conference (SciPy 2025).*
+> https://proceedings.scipy.org/articles/WXRH8633
 
 ## Community
 
