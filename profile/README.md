@@ -13,14 +13,14 @@ The ecosystem provides modular and scalable software components for working with
 
 Built on the Scientific Python ecosystem, Echostack leverages libraries such as **xarray**, **Dask**, **Zarr**, **NetCDF**, **fsspec**, and **pandas**, while integrating with community projects including **regionmask**, **HoloViz**, **Prefect**, and **Pydantic**.
 
-The Echostack ecosystem builds upon the development of **echopype**, introduced in:
+The Echostack ecosystem builds upon the development of **echopype**:
 
 > **Lee, W.J., Setiawan, L., Tuguinay, C., Mayorga, E. and Staneva, V. (2024).**
 > *Interoperable and scalable echosounder data processing with Echopype.*
 > *ICES Journal of Marine Science*, **81**(10), 1941–1951.
 > https://doi.org/10.1093/icesjms/fsae133
 
-The broader vision, architecture, design principles, and ecosystem are presented in:
+Echostack is presented in:
 
 > **Lee, W.J., Staneva, V., Setiawan, L., Mayorga, E., Tuguinay, C., Butala, S., Lucca, B. and Lei, D. (2024).**
 > *Echostack: A flexible and scalable open-source software suite for echosounder data processing.*
