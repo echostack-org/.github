@@ -4,15 +4,13 @@
 [![GitHub Organization](https://img.shields.io/badge/GitHub-echostack--org-black?logo=github)](https://github.com/echostack-org)
 [![SPEC 0](https://img.shields.io/badge/SPEC-0-green?labelColor=%23004811&color=%235CA038)](https://scientific-python.org/specs/spec-0000/)
 
-**echostack** is an open-source ecosystem of interoperable Python packages for processing, analyzing, visualizing, and managing scientific echosounder data.
-
-Echostack is adopting [Scientific Python SPEC 0](https://scientific-python.org/specs/spec-0000/) across its Python packages to maintain consistent minimum supported Python and dependency versions. The ecosystem provides modular and scalable software components for working with water-column sonar data, from raw instrument files to calibrated, analysis-ready data products and downstream ecological interpretation.
+**echostack** is an open-source ecosystem of interoperable Python packages for processing, analyzing, visualizing, and managing scientific echosounder data. The ecosystem provides modular and scalable software components for working with water-column sonar data, from raw instrument files to calibrated, analysis-ready data products and downstream ecological interpretation.
 
 <p align="center">
   <img src="figures/echostack_packages.png" alt="Overview of the Echostack ecosystem" width="950">
 </p>
 
-Built on the Scientific Python ecosystem, Echostack leverages libraries such as **xarray**, **Dask**, **Zarr**, **NetCDF**, **fsspec**, and **pandas**, while integrating with community projects including **regionmask**, **HoloViz**, **Prefect**, and **Pydantic**.
+Built on the Scientific Python ecosystem, Echostack leverages libraries such as **xarray**, **Dask**, **Zarr**, **NetCDF**, **fsspec**, and **pandas**, while integrating with community projects including **regionmask**, **HoloViz**, **Prefect**, and **Pydantic**. Echostack is adopting [Scientific Python SPEC 0](https://scientific-python.org/specs/spec-0000/) across its Python packages to follow a consistent policy for minimum supported versions of Python and core dependencies.
 
 The Echostack ecosystem builds upon the development of **echopype**:
 
